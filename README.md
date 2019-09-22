@@ -3,4 +3,4 @@ I did my internship in Arthmetis where I worked for Bridgetree ( their client ) 
 
 It was a great experience working there as I get to know how exactly things run in an industry with data Science people and the start to end process it takes to work on a project.
 
-Note : The data I used in ppt is named as titanic data but is actually the real data given by the client. I changed the name because I can not disclose anything related to their project publicly. Thank you.
+Note : The data I used in ppt is named as titanic data but is actually the real data given by the client. I changed the name because I can not disclose anything related to their project publicly. But that should not deter your effort to replicate/understand this. Go for it!Thank you.
